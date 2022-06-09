@@ -1,0 +1,2 @@
+- Database is created by file: CreatedDbScript.sql
+- Test project is created in folder TestAPI
